@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.accepted{
+    width: 416px;
+    height: 398px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+.accepted .close{
+    width: 28px;
+    height: 28px;
+    padding-bottom: 8px;
+    flex-shrink: 0;
+    float:right;
+}
+.accepted .ptichka{
+    padding-top: 56px;
+    padding-left: 176px;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+
+}
+.accepted h2{
+    padding-top: 24px;
+    padding-left:48PX ;
+    width: 320px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+.accepted p{
+    padding-left: 48px;
+    padding-top: 9px;
+    width: 320px;
+    color: #51595F;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 24px;
+}
+.accepted .btn{
+    padding-left: 66px;
+    display: flex;
+}
+.accepted .btn img{
+    width: 56px;
+    height: 56px;
+    flex-shrink: 0;
+    padding-right: 20px;
+}

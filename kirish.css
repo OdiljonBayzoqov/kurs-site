@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.form{
+    width: 416px;
+    height: 528px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+.form .close{
+    width: 28px;
+    height: 28px;
+    padding-bottom: 8px;
+    flex-shrink: 0;
+    float:right;
+}
+.form h1{
+    padding-top: 56px;
+    padding-left: 48px;
+    padding-bottom: 10px;
+    width: 320px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; 
+}
+.form p{
+    width: 320px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    padding-left: 48px;
+    padding-bottom: 24px;   
+}
+.form .place{
+    margin-left: 45px;
+    margin-bottom: 10px;
+    width: 280px;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #284C68;
+    background: #FFF;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.form .number{
+    display: flex;
+    width: 280px;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F3F4F4;
+    margin-left: 48px;
+    margin-bottom: 25px;
+}
+.form .form-btn p{
+    display: inline-flex;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F7A90B;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: 30px; 
+    margin-left: 48px;
+    cursor: pointer;
+}

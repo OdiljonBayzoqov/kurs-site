@@ -1,0 +1,1220 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+.body{
+    width: 100%;
+    height: auto;
+}
+header{
+    width: 1536px;
+    height: 97px;
+    background-color: #000000;
+    padding-left: 100px;
+
+}
+header .navbar{
+    display: flex;
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+.navbar .starchitect_1{
+    width: 483px;
+    height: 56px;
+    flex-shrink: 0;
+    padding-right: 70px;
+}
+.navbar .nav_location{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding-right: 12px;
+
+}
+.navbar .manzil_nav{
+    width: 266px;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    padding-right: 55px;
+}
+.navbar .telegram_nav{
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-right:8px ;
+}
+.navbar .whatsap_nav{
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+}
+
+.navbar .telnum_nav{
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.48px;
+    padding-left: 15px;
+}
+
+.auto-group {
+    width: 1536px;
+    height: 800px;
+    flex-shrink: 0;
+    background: linear-gradient(114deg, rgba(4, 8, 12, 0.80) 0%, rgba(4, 8, 12, 0.00) 65.26%);
+    background-image: url(./rasm/bgg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.auto-group h1{
+    width: 970px;
+    padding-left: 170px;
+    padding-top: 120px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+}
+.auto-group .sarlavha-bottom{
+    width: 970px;
+    padding-left: 221px;
+    padding-bottom: 50px ;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px; 
+
+}
+.auto-group .head-polygon{
+    width: 140px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+
+}
+.auto-group .head-polygon .polygon{
+    padding-right: 5px;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    padding-top:30px;
+    padding-left: 20px;
+
+}
+.auto-group .head-polygon .poly2{
+    width: 290px;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.auto-group .head-polygon .yonalish{
+    display: flex;
+}
+.auto-group .auto_bottom{
+    padding-top: 65px;
+    padding-left: 220px;
+    display: flex;
+}
+.auto-group .link{
+    display: inline-flex;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F7A90B;
+
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 30px;
+
+}
+
+.auto-group .auto_bottom .kirish{
+    display: inline-flex;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #C4C4C4;
+    margin-left: 55px;
+    color: #FFF;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 30px;
+}
+.page-1{
+    background-color: #ffffff;
+    width: 1536px;
+}
+
+.page-1 h2{
+    width: 900px;
+    padding-left: 120px;
+    padding-bottom: 40px;
+    padding-top: 80px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 52px;
+
+}
+.page-1 p{
+    padding-left: 120px;
+    width: 900px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+.page-1 .page1_2{
+    width: 1536px;
+    padding-top: 65px;
+    display: flex;
+}
+.page-1 .orta{
+    width: 250px;
+    padding-right: 50px;
+}
+.page-1 .orta .soni{
+
+    color: #284C68;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 250;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+.page-1 .orta .tex{
+    width: 270px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 32px;
+}
+.page-1 .imge{
+    width: 390px;
+    height: 224px;
+    flex-shrink: 0;
+    display: flex;
+    padding-top: 60px;
+    padding-left: 125px;
+    padding-bottom: 80px;
+}
+.page-1 .imge .rec1{
+    padding-right: 30px;
+}
+.page-1 .imge .rec2{
+    padding-right: 30px;
+}
+
+.page-2{
+    width: 1536px;
+    height: 716px;
+    flex-shrink: 0;
+    margin-top: 20px;
+    padding-left: 150px;
+    background: #F3F4F4;
+    display: flex;
+}
+.page-2 h2{
+    padding-top: 70px;
+
+    padding-bottom: 10px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+}
+.page-2 .h2tag{
+
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+.page-2 .page_box{
+    display: flex;
+    padding-top: 45px;
+}
+.page-2 .page_box img{
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    padding-right: 20px;
+}
+.page-2 .page_box h3{
+    width: 386px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+}
+.page-2 .page_box p{
+    width: 385px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.page-2 .right_img img{
+    padding-top: 40px;
+    padding-left: 80px;
+    width: 510px;
+    height: 588px;
+    flex-shrink: 0;
+
+}
+
+.top-tex{
+    margin: auto;
+    width: 1170px;
+    justify-content: center;
+}
+.top-tex h1{
+    padding-top: 20px;
+    width: 1170px;
+    height: 64px;
+    top: 2524px;
+    left: 183px;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.top-tex .nav{
+    width: 1170px;
+    color: #51595F;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 150% */
+    padding-bottom: 30px;
+}
+.main{
+    width: 1536px;
+    height: auto;
+}
+.main .dew{
+
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100px;
+    margin-left: 30px;
+}
+.image-container{
+    width: 272px;
+    height: 430px;
+    flex-shrink: 0;
+}
+.image-container {
+    position: relative;
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 21px;
+}
+
+.image-container .overlay-text .img{
+
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: A0A0A0;
+    padding: 40px 20px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.image-container .overlay-text .joylar{
+    padding: 10px 30px;
+    width: 206px;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.28px;
+    text-transform: uppercase;
+
+}
+.image-container .overlay-text .rang{
+    color: #FFF;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+}
+.image-container .overlay-text h3{
+    margin: auto;
+    color: #fff;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    padding: 15px;
+}
+.image-container .overlay-text .muddat{
+    margin-bottom: 20px; ;
+    color: #F7A90B;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 30px; 
+}
+.image-container .overlay-text .button .img{
+    display: flex;
+    width: 156px;
+    padding: 15px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F7A90B;
+    padding-top: 15px;
+}
+.container{
+    margin: auto;
+    width: 1170px;
+    justify-content: center;
+    border: 1px solid #CBD6DE;
+    text-align: center;
+}
+.main  .container .p .strch{
+    margin: auto;
+    text-align: center;
+    width: 1030px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52px; /* 144.444% */
+}
+.main .container .icons{
+    display: flex;
+}
+.main .container .link{
+    width: 431px;
+    padding: 34px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.black{
+    width: 1536px;
+    height: 614px;
+    flex-shrink: 0;
+    background: linear-gradient(111deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.00) 63.93%);
+    background-image: url(../bar/rasm/bg2.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: #000000, #00000000;
+    margin-top: 30px;
+}
+.black .kurslar{
+    padding-left: 185px;
+    color: #fff;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+    padding-top: 90px;
+}
+ .black .blackbox{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    padding-left: 195px;
+    padding-top: 50px;
+    background-color: #20181800;
+}
+.black .whitext{
+    display: flex;
+    justify-content: space-between;
+    width: 1060px;
+    padding-left: 185px;
+    padding-top: 50px;
+}
+.black .whitext .talaba{
+    color: #fff;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    width: 270px;
+    padding-right: 30px;
+}
+.black .whitext .kasb{
+    color: #ffff;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    width: 270px;
+    padding-right: 50px;
+}
+.black .whitext .kompany{
+    color: #fff;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    width: 270px;
+    padding-right: 30px;
+}
+.black .whitext .and{
+    color: #fff;
+    font-family: Futura PT;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    width: 270px;
+    padding-left: 30px;
+}
+.black .blacktext{
+    display: flex;
+    justify-content: space-between;
+    width: 1070px;
+    padding-left: 185px;
+    padding-top: 50px;
+    padding-top: 17px;
+}
+.black .blacktext .text1{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 270px;
+}
+.black .blacktext .text2{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 270px;
+    padding-right: 20px;
+}
+.black .blacktext .text3{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 270px;
+    padding-right: 30px;
+
+}
+
+.black .blacktext .text4{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 270px;
+}
+.Blackbottom{
+    width: 1536px;
+    height: 344px;
+    flex-shrink: 0;
+    margin-top: 30px;
+    background: #284C68;
+    padding-top: 56px;
+    padding-left: 100px;
+
+}
+.Blackbottom h2{
+    color: #FFF;
+    width: 750px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52px;
+    font-family: Futura PT, 'Source Sans Pro';
+
+}
+.Blackbottom .free-bottom{
+    padding-top: 55px;
+    display: flex;
+    width: 1400px;
+    height: 96px;
+}
+.Blackbottom .face{
+    width: 120px;
+    height: 120px;;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../bar/rasm/face1.png');
+    margin-right: 35px;
+}
+
+.Blackbottom .free-bottom .bulut{
+    width: 440px;
+    height: 61px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    white-space: nowrap;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../bar/rasm/bulutcha1.svg');
+    flex-shrink: 0;
+
+}
+.Blackbottom .free-bottom p{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.Blackbottom .kurslarimiz{
+    display: flex;
+    justify-content: space-between;
+    width: 1190px;
+}
+.Blackbottom .kurslarimiz a{
+    display: flex;
+    width: 300px;
+    padding: 15px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F7A90B;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 30px;
+}
+.Blackbottom .free-bottom .strel{
+    width: 68px;
+    height: 189px;
+    flex-shrink: 0;
+    stroke-width: 2px;
+    stroke: rgba(255, 255, 255, 0.40);
+    margin-left: 70px;
+}
+.Blackbottom .free-bottom .call-senter{
+    margin-left: 169px;
+}
+.Blackbottom .free-bottom .call-senter .cal{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Futura PT;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+.Blackbottom .free-bottom .call-senter .cal-num{
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 32px; 
+}
+.Welcome{
+    width: 1536px;
+    height: 1210px;
+
+}
+.Welcome h2{
+    width: 1170px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; 
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.Welcome .what-we{
+    width: 1170px;
+    color: #51595F;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; 
+    padding-top: 15px;
+    padding-left: 170px;
+    padding-bottom: 40px;
+}
+.Welcome .table{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 155px;
+}
+.Welcome  .whitebox .blocks{
+    width: 234px;
+    height: 300px;
+    flex-shrink: 0;
+    border: 1px solid #CBD6DE;
+}
+.Welcome .whitebox .blocks img{
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    padding-left: 70px;
+    padding-right: 60px;
+    padding-top: 35px;
+}
+.Welcome .whitebox .blocks p{
+    width: 218px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 25px;
+}
+.Welcome .white-btn{
+    display: flex;
+    padding-top: 65px;
+    padding-left: 155px;
+    justify-content: space-between;
+    width: 1200px ;
+
+}
+
+.Welcome .white-btn .btn_text h3{
+    width: 400px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 52px;
+
+}
+.Welcome .white-btn .btn_text .btn_p{
+    width: 391px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+.Welcome .white-btn .strelka_right{
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    color: #A1B1BC;
+
+}
+.Welcome .white-btn a{
+    display: inline-flex;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #F7A90B;
+
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 30px;
+
+}
+.Welcome .white-btn .tgrm_btn{
+    width: 78px;
+    height: 78px;
+    flex-shrink: 0;
+    padding-left: 35px;
+}
+.Welcome .white-btn p{
+    width: 254px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.Galeriya{
+    width: 1536px;
+    height: 801px;
+    flex-shrink: 0;
+    background: #F3F4F4;
+    margin-top: 20px;
+}
+.Galeriya .nav_galeriya{
+
+
+    display: flex;
+}
+.Galeriya .nav_galeriya{
+    padding-left: 200px;
+    padding-top: 70px;
+    padding-bottom: 54px;
+    padding-right: 130px;
+
+}
+.Galeriya .nav_galeriya h3{
+    width: 570px;
+    color: #000;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; 
+
+}
+.Galeriya .nav_galeriya .galeriya_p{
+    width: 570px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; 
+
+}
+.Galeriya .nav_galeriya .strelka_bottom{
+    width: 45px;
+    height: 44px;
+    flex-shrink: 0;
+    stroke-width: 1.5px;
+    stroke: #A1B1BC;
+    padding-top: 91px;
+    padding-bottom: 30px;
+}
+.Galeriya .nav_galeriya .pals{
+    width: 32px;
+    height: 32px;
+    transform: rotate(-30deg);
+    flex-shrink: 0;
+    padding-top: 75px;
+    padding-bottom: 60px;
+    padding-right: 35px;
+
+}
+.Galeriya .nav_galeriya .big-size{
+    width: 212px;
+    color: #51595F;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    padding-top: 75px;
+    padding-bottom: 40px;
+}
+.Galeriya .galeriya_image{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1536px;
+    padding-bottom: 70px;
+    padding-top: 40px;
+    margin: auto;
+}
+.Galeriya.galeriya_image img:hover {
+    background: #00000099;
+  }
+.Galeriya .galeriya_image img{
+    width: 384px;
+    height: 190px;
+    flex-shrink: 0;
+
+}
+.We-group{
+    width: 1536px;
+    height: 710px;
+    margin-top: 20px;
+}
+.We-group h2{
+    width: 1170px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+}
+.We-group .we-box{
+    display: flex;
+    padding-left: 200px;
+
+}
+.We-group .we-box .we-block{
+    width: 270px;
+    height: 330px;
+    padding-right: 25px;
+    flex-shrink: 0;
+}
+.We-group .we-box .we-block img{
+    width: 240px;
+    height: 240px;
+    flex-shrink: 0;
+    border-radius: 240px;
+    background: cover no-repeat;
+
+}
+.We-group .we-box .we-block h4{
+    width: 270px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+
+}
+.We-group .we-box .we-block p{
+    width: 270px;
+    color: #51595F;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.We-job{
+    width: 1536px;
+    height: auto;
+    flex-shrink: 0;
+    background: #3A4E5C;
+}
+.We-job h2{
+    width: 1170px;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: center;
+    margin:auto;
+}
+.We-job .we-job-image{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1210px;
+    margin-left: 95px;
+    margin-top: 55px;
+}
+.We-job .we-job-image .photo-1 img{
+    width: 370px;
+    height: 516px;
+    flex-shrink: 0;
+    background: cover no-repeat;
+
+}
+.We-job .we-job-image .photo-2{
+    width: 370px;
+    height: 295px;
+    flex-shrink: 0;
+    background: cover no-repeat;
+    
+}
+.We-job .we-job-image .photo-3{
+    width: 370px;
+    height: 412px;
+    flex-shrink: 0;
+    background: cover no-repeat;
+    
+}
+.We-job .we-job-image .photo-4{
+    width: 370px;
+    height: 434px;
+    background: cover no-repeat;
+    flex-shrink: 0;
+}
+.We-job .we-job-image .photo-5{
+    width: 370px;
+    height: 435px;
+    flex-shrink: 0;
+}
+.We-job .we-job-image .photo-6{
+    width: 370px;
+    height: 249px;
+    background: cover no-repeat;
+    flex-shrink: 0;
+    padding-bottom: 30px;
+}
+.We-job .we-job-image .photo-7{
+    width: 370px;
+    height: 254px;
+    background: cover no-repeat;
+    flex-shrink: 0;
+}
+.We-job .we-job-image .photo-8{
+    width: 370px;
+    height: 297px;
+    background: cover no-repeat;
+    flex-shrink: 0;
+    padding-bottom: 30px;
+}
+.We-job .we-job-image .photo-9{
+    width: 370px;
+    height: 463px;
+    background: cover no-repeat;
+    flex-shrink: 0;
+}
+
+.Follow{
+    width: 1170px;
+    height: 376px;
+    flex-shrink: 0;
+    fill: #FBFBFB;
+    border: 1px solid #CBD6DE;
+    filter: drop-shadow(0px 7.315px 17.49px rgba(60, 75, 84, 0.08)) drop-shadow(0px 24.57px 58.744px rgba(60, 75, 84, 0.13)) drop-shadow(0px 110px 263px rgba(60, 75, 84, 0.21)); 
+    margin: auto;   
+}
+
+.Follow h2{
+    width: 969px;
+    color: #000;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    padding-left: 15%;
+    padding-bottom: 15px;
+    
+}
+.Follow p{
+    width: 698px;
+    color: #51595F;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    
+    font-weight: 400;
+    line-height: 36px; 
+    padding-left: 25%;  
+}
+.Follow .ijtimoiy-tarmoqlar{
+    display: flex;
+    justify-content: space-between;
+
+    width: 460px;
+    padding-left: 35%;
+    padding-top: 35px;
+}
+.Follow .ijtimoiy-tarmoqlar img{
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+}
+.Follow .ijtimoiy-tarmoqlar .strelka_follow{
+    width: 60.261px;
+    height: 67px;
+    flex-shrink: 0;
+    stroke-width: 2px;
+    stroke: #A1B1BC;
+    padding-top: 5px;
+    padding-left: 60px;
+}
+.Hamkorlar{
+    width: 1536px;
+    height: 510px;
+
+}
+.Hamkorlar h2{
+    margin: auto;
+    width: 1170px;
+    color: #3A4E5C;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    padding-top: 100px;
+    padding-bottom:50px;
+}
+.Hamkorlar .logos{
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    border: 1px solid #CBD6DE;
+    padding-left: 95px;
+    
+}
+.Hamkorlar .logos img{
+    width: 198px;
+    height: 198px;
+    flex-shrink: 0;   
+    
+}
+footer .footer_btn{
+    width: 1536px;
+    height: 208px;
+    flex-shrink: 0;
+    background: #000;
+}
+footer .str_btn{
+    display: flex; 
+    padding-top: 50px;
+    padding-left: 150px;
+}
+footer  .str_btn .logo_btn{
+    width: 325.714px;
+    height: 32px;
+    flex-shrink: 0;
+    
+
+}
+footer .str_btn .btn_location{
+    width: 256px;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding-left: 170px;
+    padding-right: 10px;
+    
+}
+footer .str_btn .manzil_btn{
+    width: 266px;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    padding-right: 65px;   
+}
+footer .str_btn .telegrambtn{
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-left: 12px;
+}
+footer .str_btn .watsap_btn{
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-right: 30px;
+}
+footer .str_btn .telnum{
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 133.333% */
+    letter-spacing: -0.48px;
+}
+
+footer .btn_tag p{
+    color: #FFF;
+    text-align: center;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    letter-spacing: 0.64px;
+    text-transform: uppercase;
+    opacity: 0.5;
+    padding-top: 50px;
+}
